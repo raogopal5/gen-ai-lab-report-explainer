@@ -1,6 +1,6 @@
 for oolama run
 
-ollama pull llama3:instruct
+ollama pull llama3:mistral
 ollama serve
 
 for run backend
