@@ -1,0 +1,3 @@
+MODEL_NAME = "mistral"
+TEMPERATURE = 0.3
+MAX_TOKENS = 700
